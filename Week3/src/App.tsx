@@ -36,11 +36,11 @@
 
 // export default App
 
-import TextUpdater from "./components/Task-1";
-import SimpleForm from "./components/SimpleForm";
-import UserCard from "./components/UserCard";
-import CustomButton from "./components/CustomButton";
-import LoginForm from "./components/LoginForm";
+import TextUpdater from "./components/Task1";
+import SimpleForm from "./components/Task2";
+import UserCard from "./components/Task3";
+import CustomButton from "./components/Task4";
+import LoginForm from "./components/Task5";
 
 export default function App() {
   return (
