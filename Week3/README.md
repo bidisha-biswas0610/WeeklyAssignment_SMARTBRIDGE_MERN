@@ -1,3 +1,6 @@
+# Tasks 1 to 5
+Tasks (Task 1 to Task 5 are mentioned in the **components** file under the **src** file
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
