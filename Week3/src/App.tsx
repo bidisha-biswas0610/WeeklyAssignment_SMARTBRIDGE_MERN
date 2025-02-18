@@ -36,7 +36,7 @@
 
 // export default App
 
-import TextUpdater from "./components/TextUpdater";
+import TextUpdater from "./components/Task-1";
 import SimpleForm from "./components/SimpleForm";
 import UserCard from "./components/UserCard";
 import CustomButton from "./components/CustomButton";
