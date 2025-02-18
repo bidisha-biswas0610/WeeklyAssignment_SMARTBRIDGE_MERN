@@ -1,5 +1,7 @@
 # Tasks 1 to 5
-Tasks (Task 1 to Task 5 are mentioned in the **components** file under the **src** file
+Tasks (Task 1 to Task 5) are mentioned in the **components** file under the **src** file
+
+
 
 # React + TypeScript + Vite
 
